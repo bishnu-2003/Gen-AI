@@ -5,4 +5,4 @@ sugar_amount = 12
 print(f"Second initial sugar : {sugar_amount}")
 
 print(f"ID of 2: {id(2)}")
-print
+print(f"ID of 12: {id(12)}")
